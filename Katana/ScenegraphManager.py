@@ -1,0 +1,6 @@
+
+def getActiveScenegraph():
+    """ None """
+    pass
+    
+    
